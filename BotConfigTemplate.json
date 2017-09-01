@@ -1,0 +1,15 @@
+{
+  "key":"BOTKEY",
+  "prefix":"PREFIX",
+  "preload": false,
+  "shardCount": 0,
+  "db": {
+    "use_db":false,
+    "auth":false,
+    "user":"",
+    "pass":"",
+    "host":"",
+    "port":"",
+    "DBName":""
+  }
+}

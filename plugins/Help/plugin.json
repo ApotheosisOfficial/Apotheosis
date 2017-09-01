@@ -1,0 +1,8 @@
+{
+  "name":"Help Plugin",
+  "id": "help-plugin",
+  "script": "Help.js",
+  "load": true,
+  "commandsFile": "Commands.json",
+  "configFile" : "Config.json"
+}

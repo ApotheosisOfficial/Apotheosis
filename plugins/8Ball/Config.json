@@ -1,0 +1,31 @@
+{
+  "prefix": "8ball",
+  "responses": [
+    "Yep :white_check_mark:",
+    "Meh",
+    "No :x:",
+    "FOR SURE!",
+    "Definitely NO! :x::x::x:",
+    "Ask me again :stuck_out_tongue:",
+    "It's possible :shrug: ",
+    "Never :x:",
+    "It is certain",
+    "It is decidedly so",
+    "Without a doubt",
+    "As I see it, yes",
+    "Most likely",
+    "Signs point to yes",
+    "Reply hazy try again",
+    "Cannot predict now",
+    "Concentrate and try harder",
+    "Don't count on it",
+    "My reply is no",
+    "My sources say no",
+    "Very doubtful",
+    "Ok",
+    "No",
+    "I don't think so",
+    "Error",
+    "Its Better not to tell you now"
+  ]
+}

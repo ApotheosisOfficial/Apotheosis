@@ -1,0 +1,28 @@
+{
+  "commands": [{
+      "cmd" : "ban",
+      "desc" :"Bans the member you mentioned.",
+      "run" : "commandBan"
+    },
+    {
+      "cmd": "kick",
+      "desc": "Kicks the user you mention from your server.",
+      "run": "commandKick"
+    },
+    {
+      "cmd": "softban",
+      "desc": "Bans then unbans a user you mention.",
+      "run": "commandSoftban"
+    },
+    {
+      "cmd": "unban",
+      "desc": "Unbans the user from your server.",
+      "run": "commandUnban"
+    },
+    {
+      "cmd": "purge",
+      "desc": "delete <1 - 100> messages",
+      "run": "commandDelete"
+    }
+  ]
+}

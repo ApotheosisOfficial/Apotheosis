@@ -1,0 +1,33 @@
+{
+  "commands": [{
+    "cmd": "owner",
+    "desc": "*Displays owner commands.*",
+    "run": "commandOwner"
+  },
+  {
+    "cmd": "8ball",
+    "desc": "*Displays 8ball help.*",
+    "run": "command8ball"
+  },
+  {
+    "cmd": "roll",
+    "desc": "*Displays roll help.*",
+    "run": "commandRoll"
+  },
+  {
+    "cmd": "flip",
+    "desc": "*displays Coin flip help.*",
+    "run": "commandFlip"
+  },
+  {
+    "cmd": "info",
+    "desc": "*Displays information about server, or user.*",
+    "run": "commandInfo"
+  },
+  {
+    "cmd": "casino",
+    "desc": "*Displays casino commands*",
+    "run": "commandCasino"
+  }
+  ]
+}

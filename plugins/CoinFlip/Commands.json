@@ -1,0 +1,8 @@
+{
+  "commands":[
+    {
+      "cmd": "roll",
+      "run": "commandroll"
+    }
+  ]
+}

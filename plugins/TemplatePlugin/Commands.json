@@ -1,0 +1,14 @@
+{
+  "commands":[
+    {
+      "cmd": "server",
+      "desc": "*Displays info about the server.*",
+      "run": "commandServer"
+    },
+    {
+      "cmd": "user",
+      "desc": "*Displays the information about the user\n (currently broken :sob:)*",
+      "run": "commandUser"
+    }
+  ]
+}

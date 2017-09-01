@@ -1,0 +1,33 @@
+{
+  "commands": [{
+      "cmd": "eval",
+      "desc": "Evaluates code",
+      "run": "commandeval"
+    },
+    {
+      "cmd": "exec",
+      "desc": "Executes commands to the console",
+      "run": "commandexec"
+    },
+    {
+      "cmd": "info",
+      "desc": "Displays information about the bot",
+      "run": "commandinfo"
+    },
+    {
+      "cmd": "restart",
+      "desc": "Restarts the bot",
+      "run": "commandRestart"
+    },
+    {
+      "cmd": "say",
+      "desc": "displays what you want to say",
+      "run": "commandsay"
+    },
+    {
+      "cmd": "status",
+      "desc": "Sets the bots status",
+      "run": "commandStatus"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "commands": [
+    {
+      "cmd" : "kill",
+      "desc" :"Kills a member in the server",
+      "run" : "commandKill"
+    },
+    {
+      "cmd": "calc",
+      "desc": "calculate things with de maths",
+      "run": "commandcalc"
+    },
+    {
+      "cmd": "send",
+      "run": "commandMessageAll"
+    }
+  ]
+}

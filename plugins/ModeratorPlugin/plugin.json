@@ -1,0 +1,8 @@
+{
+  "name": "Moderator Plugin",
+  "id": "moderator-plugin",
+  "script": "Plugin.js",
+  "load": true,
+  "commandsFile": "Commands.json",
+  "configFile": "Config.json"
+}
